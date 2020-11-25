@@ -4,10 +4,12 @@ if(!isset($_SESSION)){session_start();}
 Class Assign{
     public $conn;
 	function __construct(){
-                    $hostname="localhost";
-                    $username="root";
-                    $password="";
-                    $database="login";
+                   
+         $hostname="localhost";
+        $password="XM2%PYKHuqpX";
+        $database="kammasof_login";
+        $username='kammasof_kammasof';
+		$this->kamx = new Mysqli($hostname,$username,$password,$database);
 
                     $this->conn = new Mysqli($hostname,$username,$password,$database);
                         }

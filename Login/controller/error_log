@@ -1,0 +1,10 @@
+[25-Nov-2020 09:12:43 UTC] PHP Warning:  require_once(../models/users.php): failed to open stream: No such file or directory in /home2/kammasof/public_html/Login/controller/Auth.php on line 12
+[25-Nov-2020 09:12:43 UTC] PHP Fatal error:  require_once(): Failed opening required '../models/users.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home2/kammasof/public_html/Login/controller/Auth.php on line 12
+[25-Nov-2020 09:32:01 UTC] PHP Warning:  require_once(../models/users.php): failed to open stream: No such file or directory in /home2/kammasof/public_html/Login/controller/Auth.php on line 26
+[25-Nov-2020 09:32:01 UTC] PHP Fatal error:  require_once(): Failed opening required '../models/users.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home2/kammasof/public_html/Login/controller/Auth.php on line 26
+[25-Nov-2020 09:56:51 UTC] PHP Notice:  Trying to access array offset on value of type null in /home2/kammasof/public_html/Login/models/Users.php on line 48
+[25-Nov-2020 09:56:51 UTC] PHP Notice:  Trying to access array offset on value of type null in /home2/kammasof/public_html/Login/models/Users.php on line 48
+[25-Nov-2020 09:56:51 UTC] PHP Notice:  Trying to access array offset on value of type null in /home2/kammasof/public_html/Login/models/Users.php on line 49
+[25-Nov-2020 09:56:51 UTC] PHP Notice:  Trying to access array offset on value of type null in /home2/kammasof/public_html/Login/models/Users.php on line 50
+[25-Nov-2020 09:56:51 UTC] PHP Notice:  Trying to access array offset on value of type null in /home2/kammasof/public_html/Login/models/Users.php on line 52
+[25-Nov-2020 09:56:51 UTC] PHP Notice:  Trying to access array offset on value of type null in /home2/kammasof/public_html/Login/models/Users.php on line 53

@@ -1,12 +1,12 @@
 <?php
- require_once('./models/assign.php');
+ require_once('./models/Assign.php');
  if(!isset($_SESSION)){session_start();}
 Class Process{
    
     public $handler;
  function __construct(){
 
-        $this-> handler= new  assign;
+        $this-> handler= new  Assign;
 
     }
 

@@ -6,11 +6,14 @@
  }
  
 require('views/home_header.php');
-include_once('./controller/Process.php');
-$get_mentors =new process;
+ 
+include_once('controller/Process.php');
+
+$get_mentors =new Process;
+
 $id=$_SESSION['user_id'];
 if($_SESSION['user_type']==1){
-    
+  
     //is a mentor
     $data_mentors =$get_mentors-> get_all_mentee($id);
    
@@ -33,7 +36,7 @@ header('location:/views/logout.php');
         <![endif]-->
         <script src = "http://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
       <script src = "http://ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/jquery-ui.min.js"></script>
-      ​<script type = "text/javascript" > history.pushState(null, null, location.href); history.back(); history.forward(); window.onpopstate = function () { history.go(1); }; </script>
+     <script type = "text/javascript" > history.pushState(null, null, location.href); history.back(); history.forward(); window.onpopstate = function () { history.go(1); }; </script>
    
         
   <?php

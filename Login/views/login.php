@@ -218,13 +218,14 @@ $sign_up =''
                   
                   $.ajax({
   method: "POST",
-  url: "./controller/auth.php",
+  url: "./controller/Auth.php",
   data:data,
   success:function(msg){
     
     $('.latest').remove();
     
      if(msg==1){
+         
         
          //login was successful so redirect
         //  window.location.replace('views/home.php');
@@ -280,11 +281,11 @@ $sign_up =''
   success:function(msg){
    $('.latest').remove();
       if(msg ==1){
-       
+        
           $('.update').append("<p class='text-success latest'>Registered Successfully! Kindly Log in.</p>")
 
       }else{
-          
+         
         $('.update').append("<p class='text-danger latest'>You are already a member, kindly login or click  <b>forgot password</b>.</p>")
       }
 

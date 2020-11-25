@@ -1,0 +1,104 @@
+[25-Nov-2020 09:07:19 UTC] PHP Notice:  Undefined index: engaged in /home2/kammasof/public_html/Login/homepage.php on line 4
+[25-Nov-2020 09:07:19 UTC] PHP Warning:  require_once(./models/assign.php): failed to open stream: No such file or directory in /home2/kammasof/public_html/Login/controller/Process.php on line 2
+[25-Nov-2020 09:07:19 UTC] PHP Fatal error:  require_once(): Failed opening required './models/assign.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home2/kammasof/public_html/Login/controller/Process.php on line 2
+[25-Nov-2020 09:07:19 UTC] PHP Notice:  Undefined index: engaged in /home2/kammasof/public_html/Login/homepage.php on line 4
+[25-Nov-2020 09:07:19 UTC] PHP Warning:  require_once(./models/assign.php): failed to open stream: No such file or directory in /home2/kammasof/public_html/Login/controller/Process.php on line 2
+[25-Nov-2020 09:07:19 UTC] PHP Fatal error:  require_once(): Failed opening required './models/assign.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home2/kammasof/public_html/Login/controller/Process.php on line 2
+[25-Nov-2020 09:36:40 UTC] PHP Warning:  require_once(./models/assign.php): failed to open stream: No such file or directory in /home2/kammasof/public_html/Login/controller/Process.php on line 2
+[25-Nov-2020 09:36:40 UTC] PHP Fatal error:  require_once(): Failed opening required './models/assign.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home2/kammasof/public_html/Login/controller/Process.php on line 2
+[25-Nov-2020 09:38:04 UTC] PHP Warning:  require_once(./models/assign.php): failed to open stream: No such file or directory in /home2/kammasof/public_html/Login/controller/Process.php on line 2
+[25-Nov-2020 09:38:04 UTC] PHP Fatal error:  require_once(): Failed opening required './models/assign.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home2/kammasof/public_html/Login/controller/Process.php on line 2
+[25-Nov-2020 09:38:20 UTC] PHP Warning:  require_once(./models/assign.php): failed to open stream: No such file or directory in /home2/kammasof/public_html/Login/controller/Process.php on line 2
+[25-Nov-2020 09:38:20 UTC] PHP Fatal error:  require_once(): Failed opening required './models/assign.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home2/kammasof/public_html/Login/controller/Process.php on line 2
+[25-Nov-2020 09:39:02 UTC] PHP Warning:  require_once(./models/assign.php): failed to open stream: No such file or directory in /home2/kammasof/public_html/Login/controller/Process.php on line 2
+[25-Nov-2020 09:39:02 UTC] PHP Fatal error:  require_once(): Failed opening required './models/assign.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home2/kammasof/public_html/Login/controller/Process.php on line 2
+[25-Nov-2020 09:39:18 UTC] PHP Warning:  require_once(./models/assign.php): failed to open stream: No such file or directory in /home2/kammasof/public_html/Login/controller/Process.php on line 2
+[25-Nov-2020 09:39:18 UTC] PHP Fatal error:  require_once(): Failed opening required './models/assign.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home2/kammasof/public_html/Login/controller/Process.php on line 2
+[25-Nov-2020 09:42:57 UTC] PHP Warning:  require_once(./models/assign.php): failed to open stream: No such file or directory in /home2/kammasof/public_html/Login/controller/Process.php on line 2
+[25-Nov-2020 09:42:57 UTC] PHP Fatal error:  require_once(): Failed opening required './models/assign.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home2/kammasof/public_html/Login/controller/Process.php on line 2
+[25-Nov-2020 09:43:07 UTC] PHP Warning:  require_once(./models/assign.php): failed to open stream: No such file or directory in /home2/kammasof/public_html/Login/controller/Process.php on line 2
+[25-Nov-2020 09:43:07 UTC] PHP Fatal error:  require_once(): Failed opening required './models/assign.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home2/kammasof/public_html/Login/controller/Process.php on line 2
+[25-Nov-2020 09:48:53 UTC] PHP Warning:  require_once(./models/assign.php): failed to open stream: No such file or directory in /home2/kammasof/public_html/Login/controller/Process.php on line 2
+[25-Nov-2020 09:48:53 UTC] PHP Fatal error:  require_once(): Failed opening required './models/assign.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home2/kammasof/public_html/Login/controller/Process.php on line 2
+[25-Nov-2020 09:52:17 UTC] PHP Warning:  require_once(./models/assign.php): failed to open stream: No such file or directory in /home2/kammasof/public_html/Login/controller/Process.php on line 2
+[25-Nov-2020 09:52:17 UTC] PHP Fatal error:  require_once(): Failed opening required './models/assign.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home2/kammasof/public_html/Login/controller/Process.php on line 2
+[25-Nov-2020 10:03:41 UTC] PHP Warning:  require_once(./models/assign.php): failed to open stream: No such file or directory in /home2/kammasof/public_html/Login/controller/Process.php on line 2
+[25-Nov-2020 10:03:41 UTC] PHP Fatal error:  require_once(): Failed opening required './models/assign.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home2/kammasof/public_html/Login/controller/Process.php on line 2
+[25-Nov-2020 10:04:10 UTC] PHP Warning:  require_once(./models/assign.php): failed to open stream: No such file or directory in /home2/kammasof/public_html/Login/controller/Process.php on line 2
+[25-Nov-2020 10:04:10 UTC] PHP Fatal error:  require_once(): Failed opening required './models/assign.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home2/kammasof/public_html/Login/controller/Process.php on line 2
+[25-Nov-2020 10:04:50 UTC] PHP Warning:  include_once(../controller/Process.php): failed to open stream: No such file or directory in /home2/kammasof/public_html/Login/homepage.php on line 10
+[25-Nov-2020 10:04:50 UTC] PHP Warning:  include_once(): Failed opening '../controller/Process.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home2/kammasof/public_html/Login/homepage.php on line 10
+[25-Nov-2020 10:05:16 UTC] PHP Warning:  include_once(../controller/Process.php): failed to open stream: No such file or directory in /home2/kammasof/public_html/Login/homepage.php on line 10
+[25-Nov-2020 10:05:16 UTC] PHP Warning:  include_once(): Failed opening '../controller/Process.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home2/kammasof/public_html/Login/homepage.php on line 10
+[25-Nov-2020 10:05:16 UTC] PHP Fatal error:  Uncaught Error: Class 'process' not found in /home2/kammasof/public_html/Login/homepage.php:12
+Stack trace:
+#0 /home2/kammasof/public_html/Login/status.php(7): require_once()
+#1 /home2/kammasof/public_html/Login/index.php(34): require('/home2/kammasof...')
+#2 {main}
+  thrown in /home2/kammasof/public_html/Login/homepage.php on line 12
+[25-Nov-2020 10:05:27 UTC] PHP Warning:  include_once(../controller/Process.php): failed to open stream: No such file or directory in /home2/kammasof/public_html/Login/homepage.php on line 10
+[25-Nov-2020 10:05:27 UTC] PHP Warning:  include_once(): Failed opening '../controller/Process.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home2/kammasof/public_html/Login/homepage.php on line 10
+[25-Nov-2020 10:05:27 UTC] PHP Fatal error:  Uncaught Error: Class 'process' not found in /home2/kammasof/public_html/Login/homepage.php:12
+Stack trace:
+#0 /home2/kammasof/public_html/Login/status.php(7): require_once()
+#1 /home2/kammasof/public_html/Login/index.php(34): require('/home2/kammasof...')
+#2 {main}
+  thrown in /home2/kammasof/public_html/Login/homepage.php on line 12
+[25-Nov-2020 10:05:38 UTC] PHP Warning:  include_once(../controller/Process.php): failed to open stream: No such file or directory in /home2/kammasof/public_html/Login/homepage.php on line 10
+[25-Nov-2020 10:05:38 UTC] PHP Warning:  include_once(): Failed opening '../controller/Process.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home2/kammasof/public_html/Login/homepage.php on line 10
+[25-Nov-2020 10:05:38 UTC] PHP Fatal error:  Uncaught Error: Class 'process' not found in /home2/kammasof/public_html/Login/homepage.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/kammasof/public_html/Login/homepage.php on line 12
+[25-Nov-2020 10:05:44 UTC] PHP Warning:  include_once(../controller/Process.php): failed to open stream: No such file or directory in /home2/kammasof/public_html/Login/homepage.php on line 10
+[25-Nov-2020 10:05:44 UTC] PHP Warning:  include_once(): Failed opening '../controller/Process.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home2/kammasof/public_html/Login/homepage.php on line 10
+[25-Nov-2020 10:05:44 UTC] PHP Fatal error:  Uncaught Error: Class 'process' not found in /home2/kammasof/public_html/Login/homepage.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/kammasof/public_html/Login/homepage.php on line 12
+[25-Nov-2020 10:07:39 UTC] PHP Warning:  include_once(../controller/Process.php): failed to open stream: No such file or directory in /home2/kammasof/public_html/Login/homepage.php on line 10
+[25-Nov-2020 10:07:39 UTC] PHP Warning:  include_once(): Failed opening '../controller/Process.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home2/kammasof/public_html/Login/homepage.php on line 10
+[25-Nov-2020 10:07:39 UTC] PHP Fatal error:  Uncaught Error: Class 'process' not found in /home2/kammasof/public_html/Login/homepage.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/kammasof/public_html/Login/homepage.php on line 12
+[25-Nov-2020 10:08:59 UTC] PHP Warning:  include_once(../controller/Process.php): failed to open stream: No such file or directory in /home2/kammasof/public_html/Login/homepage.php on line 10
+[25-Nov-2020 10:08:59 UTC] PHP Warning:  include_once(): Failed opening '../controller/Process.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home2/kammasof/public_html/Login/homepage.php on line 10
+[25-Nov-2020 10:08:59 UTC] PHP Fatal error:  Uncaught Error: Class 'process' not found in /home2/kammasof/public_html/Login/homepage.php:12
+Stack trace:
+#0 /home2/kammasof/public_html/Login/status.php(7): require_once()
+#1 /home2/kammasof/public_html/Login/index.php(34): require('/home2/kammasof...')
+#2 {main}
+  thrown in /home2/kammasof/public_html/Login/homepage.php on line 12
+[25-Nov-2020 10:10:21 UTC] PHP Warning:  include_once(../controller/Process.php): failed to open stream: No such file or directory in /home2/kammasof/public_html/Login/homepage.php on line 10
+[25-Nov-2020 10:10:21 UTC] PHP Warning:  include_once(): Failed opening '../controller/Process.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home2/kammasof/public_html/Login/homepage.php on line 10
+[25-Nov-2020 10:10:21 UTC] PHP Fatal error:  Uncaught Error: Class 'process' not found in /home2/kammasof/public_html/Login/homepage.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/kammasof/public_html/Login/homepage.php on line 12
+[25-Nov-2020 10:11:57 UTC] PHP Warning:  include_once(../controller/Process.php): failed to open stream: No such file or directory in /home2/kammasof/public_html/Login/homepage.php on line 10
+[25-Nov-2020 10:11:57 UTC] PHP Warning:  include_once(): Failed opening '../controller/Process.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home2/kammasof/public_html/Login/homepage.php on line 10
+[25-Nov-2020 10:11:57 UTC] PHP Fatal error:  Uncaught Error: Class 'process' not found in /home2/kammasof/public_html/Login/homepage.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/kammasof/public_html/Login/homepage.php on line 12
+[25-Nov-2020 10:13:27 UTC] PHP Warning:  include_once(../controller/Process.php): failed to open stream: No such file or directory in /home2/kammasof/public_html/Login/homepage.php on line 10
+[25-Nov-2020 10:13:27 UTC] PHP Warning:  include_once(): Failed opening '../controller/Process.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home2/kammasof/public_html/Login/homepage.php on line 10
+[25-Nov-2020 10:13:27 UTC] PHP Fatal error:  Uncaught Error: Class 'process' not found in /home2/kammasof/public_html/Login/homepage.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/kammasof/public_html/Login/homepage.php on line 12
+[25-Nov-2020 10:14:59 UTC] PHP Warning:  include_once(../controller/Process.php): failed to open stream: No such file or directory in /home2/kammasof/public_html/Login/homepage.php on line 10
+[25-Nov-2020 10:14:59 UTC] PHP Warning:  include_once(): Failed opening '../controller/Process.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home2/kammasof/public_html/Login/homepage.php on line 10
+[25-Nov-2020 10:15:48 UTC] PHP Warning:  include_once(../controller/Process.php): failed to open stream: No such file or directory in /home2/kammasof/public_html/Login/homepage.php on line 10
+[25-Nov-2020 10:15:48 UTC] PHP Warning:  include_once(): Failed opening '../controller/Process.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home2/kammasof/public_html/Login/homepage.php on line 10
+[25-Nov-2020 10:15:48 UTC] PHP Fatal error:  Uncaught Error: Class 'process' not found in /home2/kammasof/public_html/Login/homepage.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/kammasof/public_html/Login/homepage.php on line 12
+[25-Nov-2020 10:16:20 UTC] PHP Warning:  include_once(../controller/Process.php): failed to open stream: No such file or directory in /home2/kammasof/public_html/Login/homepage.php on line 10
+[25-Nov-2020 10:16:20 UTC] PHP Warning:  include_once(): Failed opening '../controller/Process.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home2/kammasof/public_html/Login/homepage.php on line 10
+[25-Nov-2020 10:16:20 UTC] PHP Fatal error:  Uncaught Error: Class 'Process' not found in /home2/kammasof/public_html/Login/homepage.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/kammasof/public_html/Login/homepage.php on line 12

@@ -23,7 +23,7 @@ $add->signUp($data);
 
     //it is a signin
     $data= array_map('sanitize', $_POST);  
-require_once('../models/users.php');
+require_once('../models/Users.php');
 $add =new Users;
 $add->login($data);
 
